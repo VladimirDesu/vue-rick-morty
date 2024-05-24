@@ -1,6 +1,6 @@
 # vue-rick-morty
 
-This template should help get you started developing with Vue 3 in Vite.
+Посмотреть готовый проект [Rick and Morty](https://vladimirdesu.github.io/vue-rick-morty/)
 
 ## Recommended IDE Setup
 
