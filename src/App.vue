@@ -94,6 +94,7 @@
 
   const onClickApply = async () => {
     filters.value.page = 1;
+    await getCharacters()
   };
 
   const onChangePage = async (e) => {
